@@ -1,0 +1,2 @@
+# NEWNOTES
+Smoke Testing Suite
